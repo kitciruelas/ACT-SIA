@@ -16,7 +16,7 @@ function App() {
               </button>
               <div className="collapse navbar-collapse justify-content-md-end" id="navbar-content" data-navbar-collapse="data-navbar-collapse">
                 <ul className="navbar-nav gap-md-2 gap-lg-3 pt-x1 pb-1 pt-md-0 pb-md-0" data-navbar-nav="data-navbar-nav">
-                  <li className="nav-item"><a className="nav-link lh-xl" href="#home">Home</a></li>
+                  <li className="nav-item"><a className="nav-link lh-xl" href="#home">Homes</a></li>
                   <li className="nav-item"><a className="nav-link lh-xl" href="#about">About us</a></li>
                   <li className="nav-item"><a className="nav-link lh-xl" href="#service">Support</a></li>
                   <li className="nav-item"><a className="nav-link lh-xl" href="#pricing">Pricing</a></li>
